@@ -1,0 +1,31 @@
+body {
+    background-color: #EBEFF2;
+}
+.div-h1 {
+    background-color: #F7F7F7;
+    margin: 25px 70px 0px 70px;
+    border: 1px solid #d7dde0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+h1 {
+    padding: 15px 0px 20px 25px;
+}
+.div-form {
+    margin: 0px 70px 0px 70px;
+    border: 1px solid #d7dde0;
+    background-color: #FFFFFF;
+}
+label {
+    font-weight: bold;
+    padding: 15px 0px 0px 0px;
+}
+.form-control {
+    font-weight: bold;
+}
+.form-group {
+    padding: 0px 25px 0px 25px;
+}
+.btn-primary {
+    margin: 15px 0px 0px 0px;
+}
